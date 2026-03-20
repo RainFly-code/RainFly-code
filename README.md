@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm RainFly</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Hi,+I'm+RainFly;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RainFly-code&label=Profile%20views&color=0969da&style=flat" alt="RainFly-code" />
+</p>
 <p align="center">
   <strong>Compiler Testing · Automatic Code Generation · Code LLMs · Intelligent Software Engineering · Automated Testing</strong>
 </p>
@@ -54,6 +59,14 @@ Tooling:     Crawlers, CSV Pipelines, Database Design Drafting
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RainFly-code&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff" alt="RainFly GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainFly-code&layout=compact&hide_border=true&title_color=0969da&text_color=24292f&bg_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ## Looking Ahead
