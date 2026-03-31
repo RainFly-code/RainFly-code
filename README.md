@@ -57,8 +57,8 @@ Tooling:     Crawlers, CSV Pipelines, Database Design Drafting
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="RainFly GitHub stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="165" src="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/stats.svg" alt="RainFly GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
