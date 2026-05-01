@@ -33,15 +33,6 @@
 - AI-assisted developer tooling
 - Lightweight front-end and productivity projects
 
-## Featured Projects
-
-| Project                                                                            | What It Shows                                                                                          | Stack                  |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------- |
-| [RainFly-code](https://github.com/RainFly-code/RainFly-code)                       | My GitHub profile repository, used to present projects, interests, and automated profile assets.      | Markdown / GitHub      |
-| [claude-code](https://github.com/RainFly-code/claude-code)                         | An open source repository focused on AI coding workflow exploration and practical coding experiments.  | AI Coding / Tooling    |
-| [database-designer-lite](https://github.com/RainFly-code/database-designer-lite)   | A lightweight database design helper for personal projects, graduation projects, and fast prototyping. | Design / SQL           |
-| [Vue_Study](https://github.com/RainFly-code/Vue_Study)                             | A Vue practice repository for learning, experimenting, and consolidating front-end development skills. | Vue / JavaScript       |
-
 ## Tech Stack
 
 ```text
