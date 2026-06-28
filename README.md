@@ -3,8 +3,10 @@
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RainFly-code&label=Profile%20views&color=0969da&style=flat" alt="RainFly-code" />
+</p>
+<p align="center">
   <a href="https://githubroast.dev/u/RainFly-code">
-    <img src="https://githubroast.dev/api/badge/RainFly-code" alt="GitHub Roast 评分徽章" />
+    <img src="https://githubroast.dev/api/card/RainFly-code" alt="GitHub Roast" />
   </a>
 </p>
 <p align="center">
