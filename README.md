@@ -51,7 +51,7 @@ Tooling:     AI Coding Workflows, Database Design Drafting, GitHub Automation
 
 <p align="center">
   <a href="https://githubroast.dev/u/RainFly-code">
-    <img src="https://githubroast.dev/api/card/RainFly-code" alt="GitHub Roast" />
+    <img width="420" src="https://githubroast.dev/api/card/RainFly-code" alt="GitHub Roast" />
   </a>
 </p>
 
