@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=RainFly-code&label=Profile%20views&color=0969da&style=flat" alt="RainFly-code" />
 </p>
 <p align="center">
-  <a href="https://githubroast.dev/u/RainFly-code">
-    <img src="https://githubroast.dev/api/card/RainFly-code" alt="GitHub Roast" />
-  </a>
-</p>
-<p align="center">
   <strong>Compiler Testing · Automatic Code Generation · Code LLMs · Intelligent Software Engineering · Automated Testing</strong>
 </p>
 <p align="center">
@@ -52,6 +47,12 @@ Tooling:     AI Coding Workflows, Database Design Drafting, GitHub Automation
 <p align="center">
   <img height="165" src="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/stats.svg" alt="RainFly GitHub stats" />
   <img height="165" src="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/top-langs.svg" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://githubroast.dev/u/RainFly-code">
+    <img src="https://githubroast.dev/api/card/RainFly-code" alt="GitHub Roast" />
+  </a>
 </p>
 
 <p align="center">
