@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=RainFly-code&label=Profile%20views&color=0969da&style=flat" alt="RainFly-code" />
 </p>
 <p align="center">
+  <a href="https://ghfind.com/u/rainfly-code?ref=badge">
+    <img src="https://ghfind.com/api/badge/rainfly-code" alt="GitHub Roast 评分徽章" />
+  </a>
+  <br />
+  <a href="https://ghfind.com/u/rainfly-code?ref=badge">
+    <img width="420" src="https://ghfind.com/api/card/rainfly-code?theme=dark" alt="GitHub Roast" />
+  </a>
+</p>
+<p align="center">
   <strong>Software Engineering · AI Tooling · Full-Stack Development · Open Source Practice</strong>
 </p>
 <p align="center">
@@ -46,18 +55,8 @@ Tooling:     Automation, Developer Workflows, Database Design, GitHub Practice
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/stats.svg" alt="RainFly GitHub stats" />
-  <img height="165" src="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/top-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://ghfind.com/u/rainfly-code?ref=badge">
-    <img src="https://ghfind.com/api/badge/rainfly-code" alt="GitHub Roast 评分徽章" />
-  </a>
-  <br />
-  <a href="https://ghfind.com/u/rainfly-code?ref=badge">
-    <img width="420" src="https://ghfind.com/api/card/rainfly-code?theme=dark" alt="GitHub Roast" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RainFly-code&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff" alt="RainFly GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainFly-code&layout=compact&hide_border=true&title_color=0969da&text_color=24292f&bg_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
