@@ -5,11 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=RainFly-code&label=Profile%20views&color=0969da&style=flat" alt="RainFly-code" />
 </p>
 <p align="center">
-  <strong>Compiler Testing · Automatic Code Generation · Code LLMs · Intelligent Software Engineering · Automated Testing</strong>
+  <strong>Software Engineering · AI Tooling · Full-Stack Development · Open Source Practice</strong>
 </p>
 <p align="center">
-  我关注编译器测试、代码自动生成、代码大模型、智能化软件工程以及自动化测试，
-  也持续在软件开发全栈和相关前沿研究方向打磨项目。
+  我热爱用技术解决真实问题，持续在软件工程、AI 工具、全栈开发和开源实践中探索成长。
+  <br />
+  永远相信美好的事情即将发生。
 </p>
 
 <p align="center">
@@ -22,24 +23,24 @@
 
 ## About Me
 
-- Focus on compiler testing, automatic code generation, and Code LLMs.
-- Interested in exploring intelligent software engineering and advancing automated testing workflows.
-- Build practice-oriented open source projects around AI coding workflows, database tooling, and front-end exploration.
+- Explore practical software engineering, AI tooling, and full-stack development.
+- Enjoy turning ideas into usable projects with clear structure and thoughtful details.
+- Keep learning, building, and sharing through open source practice.
 
 ## Current Focus
 
-- Compiler testing and validation
-- Automatic code generation & Code LLMs
-- AI-assisted developer tooling
-- Lightweight front-end and productivity projects
+- Practical AI-assisted development workflows
+- Full-stack project polishing and product-oriented implementation
+- Developer tooling, automation, and productivity experiments
+- Clearer documentation and stronger open source presentation
 
 ## Tech Stack
 
 ```text
 Languages:   Python, TypeScript, JavaScript, SQL
 Frontend:    Vue, Web Applications, UI Practice
-Focus:       Compiler Testing, Code Generation, Code LLMs, Intelligent SE
-Tooling:     AI Coding Workflows, Database Design Drafting, GitHub Automation
+Focus:       Software Engineering, AI Tooling, Full-Stack Development
+Tooling:     Automation, Developer Workflows, Database Design, GitHub Practice
 ```
 
 ## GitHub Stats
@@ -50,8 +51,12 @@ Tooling:     AI Coding Workflows, Database Design Drafting, GitHub Automation
 </p>
 
 <p align="center">
-  <a href="https://githubroast.dev/u/RainFly-code">
-    <img width="420" src="https://githubroast.dev/api/card/RainFly-code" alt="GitHub Roast" />
+  <a href="https://ghfind.com/u/rainfly-code?ref=badge">
+    <img src="https://ghfind.com/api/badge/rainfly-code" alt="GitHub Roast 评分徽章" />
+  </a>
+  <br />
+  <a href="https://ghfind.com/u/rainfly-code?ref=badge">
+    <img width="420" src="https://ghfind.com/api/card/rainfly-code?theme=dark" alt="GitHub Roast" />
   </a>
 </p>
 
@@ -66,8 +71,8 @@ Tooling:     AI Coding Workflows, Database Design Drafting, GitHub Automation
 ## Looking Ahead
 
 - Continue refining these four repositories with clearer documentation and stronger project presentation
-- Share more work around compiler testing, automatic code generation, and AI-assisted development
-- Build a cleaner open source portfolio around tooling, experiments, and practical learning projects
+- Share more work around AI-assisted development, full-stack practice, and useful tooling
+- Build a cleaner open source portfolio around projects, experiments, and practical learning
 
 ## Find Me Here
 
