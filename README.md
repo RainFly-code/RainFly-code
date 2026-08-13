@@ -4,11 +4,6 @@
 <p align="center">
   <strong>Software Engineering · AI Tooling · Full-Stack Development · Open Source Practice</strong>
 </p>
-<p align="center">
-  我热爱用技术解决真实问题，持续在软件工程、AI 工具、全栈开发和开源实践中探索成长。
-  <br />
-  永远相信美好的事情即将发生。
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RainFly-code&label=Profile%20views&color=0969da&style=flat" alt="RainFly-code" />
