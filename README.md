@@ -30,21 +30,7 @@
 - Developer tooling, automation, and productivity experiments
 - Clearer documentation and stronger open source presentation
 
-## Tech Stack
-
-```text
-Languages:   Python, TypeScript, JavaScript, SQL
-Frontend:    Vue, Web Applications, UI Practice
-Focus:       Software Engineering, AI Tooling, Full-Stack Development
-Tooling:     Automation, Developer Workflows, Database Design, GitHub Practice
-```
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="./profile/stats.svg" alt="RainFly GitHub stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
+## GitHub Roast
 
 <p align="center">
   <a href="https://ghfind.com/u/rainfly-code?ref=badge">
@@ -52,20 +38,8 @@ Tooling:     Automation, Developer Workflows, Database Design, GitHub Practice
   </a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RainFly-code/RainFly-code/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-## Looking Ahead
-
-- Continue refining these four repositories with clearer documentation and stronger project presentation
-- Share more work around AI-assisted development, full-stack practice, and useful tooling
-- Build a cleaner open source portfolio around projects, experiments, and practical learning
-
 ## Find Me Here
 
 - GitHub: [@RainFly-code](https://github.com/RainFly-code)
+- Email: your-email@example.com
+- WeChat: RainFly\_Zhou
