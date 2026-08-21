@@ -18,23 +18,8 @@
 - Enjoy turning ideas into usable projects with clear structure and thoughtful details.
 - Keep learning, building, and sharing through open source practice.
 
-## Current Focus
-
-- Practical AI-assisted development workflows
-- Full-stack project polishing and product-oriented implementation
-- Developer tooling, automation, and productivity experiments
-- Clearer documentation and stronger open source presentation
-
-## GitHub Roast
-
-<p align="center">
-  <a href="https://ghfind.com/u/rainfly-code?ref=badge">
-    <img width="420" src="https://ghfind.com/api/card/rainfly-code?theme=dark" alt="GitHub Roast" />
-  </a>
-</p>
-
 ## Find Me Here
 
 - GitHub: [@RainFly-code](https://github.com/RainFly-code)
-- Email: your-email@example.com
+- Email: [stuzyf@163.com](mailto:stuzyf@163.com)
 - WeChat: RainFly\_Zhou
